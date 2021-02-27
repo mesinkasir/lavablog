@@ -1,0 +1,1 @@
+<div class="col-12 text-center border-top"> develope by axcora technology</div> <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script> <script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script> <script src="https://bstp.sourceforge.io/calulators.js "></script> <script src="{{ asset('js/clean-blog.min.js') }}"></script> </body></html>
