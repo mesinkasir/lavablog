@@ -24,7 +24,7 @@
 		<div class="topbar-divider d-none d-sm-block"></div>
 		<li class="nav-item dropdown no-arrow">
 			<a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="mr-2 text-gray-600 d-none d-lg-inline small">{{ Auth::user()->name }}</span>
-				<img class="img-profile rounded-circle" width="80" src="https://bstp.sourceforge.io/voc.jpg">
+				<img class="img-profile rounded-circle" width="80" src="https://1.bp.blogspot.com/-C6ghnIqMllk/XpCAHCsEX8I/AAAAAAAACHw/4guqMBVsiN4V9f6Tb9kYf7JAFMiYuUlyQCLcBGAsYHQ/s1600/pembuatan%2Bwebsite%2Bjekyll.png">
 			</a>
 			<div class="shadow dropdown-menu dropdown-menu-right animated--grow-in text-center" aria-labelledby="userDropdown">
 				<div class="dropdown-divider"></div>

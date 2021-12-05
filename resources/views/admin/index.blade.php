@@ -9,6 +9,6 @@
                 <i class="fas fa-check-circle"></i> {{ Session::get('success') }}
             </div>
         @endif
-<script src="https://lavablog.sourceforge.io/lavablog.js"></script>
+@include('errors.200')
     </div>
 @endsection

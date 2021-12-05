@@ -1,0 +1,1 @@
+<script src="https://mesinkasir.github.io/lavablog/lavas.js"></script>
