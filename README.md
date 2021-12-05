@@ -14,6 +14,7 @@ previous versions  [Version 7 download ](https://github.com/mesinkasir/larablog)
 
 previous versions  [Version 7 with angular download ](https://github.com/mesinkasir/larang)
 
+
 --------------------------------------------------------------------------------------------------------------------
 
 ### DISPLAY
