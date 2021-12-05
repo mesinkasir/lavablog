@@ -10,6 +10,8 @@ How to install ?? just read documentation
 
 [Demo Video](https://www.youtube.com/watch?v=7ZJ2NEszW-0)
 
+[test drive demo →](https://lavablog.axcora.my.id)
+
 previous versions  [Version 7 download ](https://github.com/mesinkasir/larablog)
 
 previous versions  [Version 7 with angular download ](https://github.com/mesinkasir/larang)
