@@ -4,6 +4,8 @@ Simple and easy to build and develope modern website using the artisan with lara
 
 Modern design concept, SEO automaticly generate title, description meta tag and facebook twitter card .
 
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
 How to install ?? just read documentation
 
 [https://www.hockeycomputindo.com/2021/02/new-laravel-blog-cms-free-download.html](https://www.hockeycomputindo.com/2021/02/new-laravel-blog-cms-free-download.html)
